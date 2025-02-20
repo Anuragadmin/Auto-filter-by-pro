@@ -997,7 +997,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                # ],[
                         #InlineKeyboardButton('My Developers 😎',callback_data='mydevelopers')
 		#],[
-		[
+		],[
 			InlineKeyboardButton('⋞ ʜᴏᴍᴇ', callback_data='start')]]
                 ),
             disable_web_page_preview = True
