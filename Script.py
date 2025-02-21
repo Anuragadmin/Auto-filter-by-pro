@@ -1,6 +1,6 @@
 import os
 class script(object):
-    START_TXT = """<b>ʜᴇʏ {}, {}\n\nɪ 🟠 हिंदी :- 
+    START_TXT = """<b>Hello {}, {}\n\n🟠 हिंदी :- 
  यह एक 🍿 movie series download bot हे ।
  सिर्फ हमारे group मे 🍿movie और series name send करदो ओर जादू देखो ।
 Link- https://t.me/+CfDYrC6oldIyNWFl
